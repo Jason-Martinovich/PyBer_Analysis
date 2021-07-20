@@ -1,4 +1,4 @@
-###PyBer_Analysis
+### PyBer_Analysis
 
 ## Overview of the analysis
 # The purpose of this assignment is to visualizse the ride-sharing data over a period of time for each city type.  We needed to understand how many cities the company servies, how many drivers are in each city, the number of rides given and how much fare was collected for the rides.  Once this information is understood, we need to show the relation of these variables between the city types. (Rural, Suburban, Urban). For the challenge a new summary datafram is created with the ride-sharing data to show the fares collected in a 4 month period and to see what the trends are between Rural, Suburban and Urban cities. 
